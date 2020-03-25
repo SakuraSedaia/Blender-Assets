@@ -1,0 +1,6 @@
+V1: Initial Build of the Ear Rig
+
+V2 Changelog:
+	Moved Root Bone to inbetween ears
+	Added Properties to the Root Bone to control color
+	Cleaned up Material, lot easier to manage now

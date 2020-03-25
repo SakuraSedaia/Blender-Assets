@@ -1,0 +1,12 @@
+Sakura's Felina Ear Rig V2:
+    
+    This rig was originally built to be used in Sakura's Animated Series 
+    "The Lone Cyborg", but after that animation was scrapped it was repurposed for "the Lost Angel". The rig
+    is very simple consisting of 5 bones, 1 Root, 4 Deforming.
+    
+    INSTRUCTIONS:
+        1. Append this asset onto any rig, scale and position accordingly, 
+        2. Parent Whole Armature to Main Head Bone using your method of choice
+        
+    Notes:
+        There are controls under the Items > Properties (Press N to show), these will allow you to toggle the Antilag and Lattice Features of the rig
