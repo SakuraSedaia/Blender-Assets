@@ -7,4 +7,4 @@ If you do use my assets in your creation, I do ask that you credit me if possibl
 my assets:
   Personal DeviantArt: https://deviantart.com/SpatialJon
   Personal YouTube: https://www.youtube.com/channel/UCGuwtqpTXQELvMYkv8T1zlw
-  Personal Discord Server: https://discord.gg/qCXghRf
+  Personal Discord Server: https://discord.com/invite/4WfHr3s
